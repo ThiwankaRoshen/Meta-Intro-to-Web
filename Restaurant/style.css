@@ -1,9 +1,9 @@
-#mainheader{
+#mainheader > h1{
     color: greenyellow;
     text-align: center;
     font-family: 'Courier New', Courier, monospace ;
 }
-#spanMH{
+#mainheader h1 span{
     color: aquamarine;
     text-align: center;
     font-size: medium;
