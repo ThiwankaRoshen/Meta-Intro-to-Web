@@ -1,4 +1,10 @@
 #mainheader{
+    color: greenyellow;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace ;
+}
+#spanMH{
     color: aquamarine;
     text-align: center;
+    font-size: medium;
 }
